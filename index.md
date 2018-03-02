@@ -2,7 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Bio
+
+Yue 'Luna' Huang is an aspiring development economist interested in leveraging big data and to study...
+
+* Pollution in developing countries
+* [Long-term impact evaluation]() for cash transfer and child health interventions
+
+
+Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu) and a research assistant at [Center for Effective Global Action](http://cega.berkeley.edu). Prior to joining UC Berkeley, she was affiliated with the Environment for Development Initiative (EfD) China Center (2015–2016). She received a B.A. in [Economics](http://www.nsd.pku.edu.cn/index.html) and a B.S. in [Environmental Sciences](http://cese.pku.edu.cn) from Peking University, China.
+
+
+
+https://www.givewell.org/research/incubation-grants/cega-uc-berkeley/july-2017-grant
 
 [Link to another page](another-page).
 
@@ -99,25 +111,3 @@ end
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
