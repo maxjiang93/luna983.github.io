@@ -1,8 +1,13 @@
 theme: jekyll-theme-minimal
+
 title: Yue 'Luna' Huang
-description: "Ph.D. Student at UC Berkeley
-Leverage Economics and Data Science Tools to Tackle International Development Challenges"
+short_description: Ph.D. Student at UC Berkeley
+long_description: Leverage Economics and Data Science Tools to Tackle International Development Challenges
+
+profile_pic: /img/profile.jpg
+cv_file: /pdf/cv.pdf
 
 url: "luna983.github.io"
+long_url: "https://luna983.github.io"
 
 google_analytics: UA-115019672-1
