@@ -1,6 +1,7 @@
 # Theme Modifications
 
 * Github link and theme link disabled, profile picuture, descriptions and CV links inserted in `_layouts/default.html`
+* `.gitignore` update
 
 # TODO
 
