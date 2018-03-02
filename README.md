@@ -1,8 +1,9 @@
-# Modifications
+# Theme Modifications
 
-* Title and Description defined in `_config.yml`.
-* Github link and theme link deleted in `_layouts/default.html`.
+* Github link and theme link disabled in `_layouts/default.html`
+* Profile pic inserted in `_layouts/default.html`
 
 # TODO
 
-* yay
+- [x] Title, description, url and google analytics defined in `_config.yml`
+- [] Profile pic uploaded in `assets/img/profile.jpg`
