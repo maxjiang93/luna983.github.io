@@ -6,4 +6,4 @@
 # TODO
 
 - [x] Title, description, url and google analytics defined in `_config.yml`
-- [] Profile pic uploaded in `assets/img/profile.jpg`
+- [ ] Profile pic uploaded in `assets/img/profile.jpg`
