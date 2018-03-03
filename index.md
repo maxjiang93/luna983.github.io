@@ -2,112 +2,37 @@
 layout: default
 ---
 
-# Bio
+## Bio
 
-Yue 'Luna' Huang is an aspiring development economist interested in leveraging big data and to study...
+Yue 'Luna' Huang is an aspiring development economist interested in leveraging cutting edge econometric and machine learning tools and big data to study...
 
-* Pollution in developing countries
-* [Long-term impact evaluation]() for cash transfer and child health interventions
+* Economic and health impacts of pollution in developing countries and effectiveness of environmental regulations
+* Long-term impact evaluation for foreign aid and social assistance
+* Extreme weather events and their consequences for poverty and inequality
+* The potential of using machine learning for resource targeting and cost-effective impact evaluation
+* Fairness, accountability, and transparency in machine learning
 
+Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu) and a research assistant at [Center for Effective Global Action](http://cega.berkeley.edu). Prior to joining UC Berkeley, she was affiliated with the Environment for Development Initiative (EfD) China Center. She received a B.A. in [Economics](http://www.nsd.pku.edu.cn/index.html) and a B.S. in [Environmental Sciences](http://cese.pku.edu.cn) from Peking University, China.
 
-Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu) and a research assistant at [Center for Effective Global Action](http://cega.berkeley.edu). Prior to joining UC Berkeley, she was affiliated with the Environment for Development Initiative (EfD) China Center (2015–2016). She received a B.A. in [Economics](http://www.nsd.pku.edu.cn/index.html) and a B.S. in [Environmental Sciences](http://cese.pku.edu.cn) from Peking University, China.
+## Research
 
+### Work in Progress
 
+[Do Data Matter for Air Quality? New Evidence from Machine Learning Predictions](china-air-quality-ml), joint with Minghao Qiu (MIT).
 
-https://www.givewell.org/research/incubation-grants/cega-uc-berkeley/july-2017-grant
+_To be updated_
 
-[Link to another page](another-page).
+## Teaching
 
-There should be whitespace between paragraphs.
+__Microeconomic Theory with Application to Natural Resources__ for Professor Ethan Ligon, 2017 Fall at UC Berkeley
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Awards and Grants
 
-# [](#header-1)Header 1
+* Mao Yugang Foundation Grant for Undergraduate Research Academic Creativity Award, Peking University
+* Bajian Rencai Scholarship, Peking University
+* Wusi Scholarship, Peking University
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Skills
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+* Languages: Native in Chinese; Fluent in English.
+* Programming Skills: Fluent in R and Python.
